@@ -53,7 +53,7 @@
 </details>
 
 <details>
-  <summary>Client</summary>
+  <summary>Configuration</summary>
   <ul>
     <li><a href="https://expressjs.com/">Linters</a></li>
   </ul>
