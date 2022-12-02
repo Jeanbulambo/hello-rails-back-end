@@ -5,7 +5,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello rails Backend</b></h3>
 
 </div>
 
@@ -43,7 +43,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> This is the hello world project as one app with Webpack
+> This is the hello Rails Backend
 
 <details>
   <summary>Client</summary>
@@ -87,6 +87,8 @@ Clone this repository to your desired folder:
 Go to your terminal and run the app with the following command:
 ```
 $ rails server
+
+### For the Fontend : https://github.com/Jeanbulambo/hello-react-front-end.git
 ```
 - **Navigate:** to http://localhost:3000/api/v1/greetings 
 
